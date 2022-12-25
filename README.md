@@ -1,4 +1,8 @@
-# Theme-WPF
+# Theme-WPF 
+
+in file 'App.xaml' 
+
+-------
 
 <Application x:Class="AppNamesapce.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
