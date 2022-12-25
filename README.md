@@ -1,5 +1,3 @@
-# Theme-WPF 
-
 Set theme for app
 
 -------
