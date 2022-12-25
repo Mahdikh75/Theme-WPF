@@ -5,6 +5,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:Backup"
              StartupUri="Views/MainView.xaml">
+  
     <Application.Resources>
     
         <ResourceDictionary>
@@ -16,4 +17,5 @@
         </ResourceDictionary>
         
     </Application.Resources>
+  
 </Application>
