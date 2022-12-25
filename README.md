@@ -1,6 +1,7 @@
 # Theme-WPF 
 
 Set theme for app
+
 -------
 in file 'App.xaml' 
 
