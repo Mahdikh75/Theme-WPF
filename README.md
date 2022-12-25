@@ -1,7 +1,6 @@
 # Theme-WPF
-Help
 
-<Application x:Class="Backup.App"
+<Application x:Class="AppNamesapce.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:Backup"
@@ -10,8 +9,9 @@ Help
     
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
+            
                 <ResourceDictionary Source="/Themes/ColourfulDarkTheme.xaml"/>
-                // ...
+           
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
         
